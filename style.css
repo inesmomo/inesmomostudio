@@ -264,7 +264,7 @@ footer a {
 }
 
     .swiper .swiper-button-prev, .swiper .swiper-button-next {
-    color: white;
+    color: none;
     visibility: collapse;
 }
 .contact {
