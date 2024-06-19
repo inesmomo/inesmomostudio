@@ -262,6 +262,11 @@ footer a {
     
         justify-content: center;
 }
+
+    .swiper .swiper-button-prev, .swiper .swiper-button-next {
+    color: white;
+    background: hidden;
+}
 .contact {
     display: flex;
     height: 200px;
