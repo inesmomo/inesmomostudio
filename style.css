@@ -97,6 +97,10 @@ nav li:first-child{
     justify-content: center;
 }
 
+.containermobile {
+    visibility: collapse;
+}
+
 
 
 .swiper {
@@ -238,6 +242,10 @@ footer a {
     }
 
     .container {
+        visibility: collapse;
+    }
+
+    .containermobile {
         width: 100%;
         display: flex;
         align-items: center;
@@ -347,6 +355,10 @@ footer a {
     nav li{
         height: 50px;
         margin-right:30px;
+    }
+
+    .containermobile {
+        visibility: collapse;
     }
 
     .contact {
