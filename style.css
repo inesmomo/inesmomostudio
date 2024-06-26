@@ -98,7 +98,7 @@ nav li:first-child{
 }
 
 .containermobile {
-    visibility: collapse;
+    display: none;
 }
 
 
@@ -242,7 +242,7 @@ footer a {
     }
 
     .container {
-        visibility: collapse;
+        display: none;
     }
 
     .containermobile {
@@ -358,7 +358,7 @@ footer a {
     }
 
     .containermobile {
-        visibility: collapse;
+        display: none;
     }
 
     .contact {
