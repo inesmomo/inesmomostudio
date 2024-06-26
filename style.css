@@ -70,7 +70,7 @@ nav ul .submenu {
     transition: all ease 0.5s;
 }
 
-nav ul li:hover  .submenu {
+nav ul:hover  .submenu {
     z-index: 99;
     opacity: 1;
     margin-top: 0;
