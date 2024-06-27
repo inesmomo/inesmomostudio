@@ -92,7 +92,6 @@ nav li:first-child{
 .subheading {
     font-family:Helvetica Neue;
     font-size:1.7rem;
-    font-weight:lighter;
     margin-left:30px;
     padding:20px;
 }
@@ -269,7 +268,7 @@ footer a {
 .subheading {
     font-family:Helvetica;
     font-size:1.8rem;
-    font-weight:bold;
+    margin-top:0px;
     margin-left:20px;
     padding:15px;
 }
