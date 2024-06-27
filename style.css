@@ -91,7 +91,9 @@ nav li:first-child{
 
 .subheading {
     font-family:Helvetica;
-    font-size:1rem;
+    font-size:3rem;
+    font-weight:lighter;
+    margin-left:30px;
 }
 
 .video1 {
