@@ -121,6 +121,20 @@ nav li:first-child{
   height: fit-content; 
 }
 
+.swiper-slide img {
+    width: 80%;
+    height: 600px;    
+    margin: auto;
+    object-fit: cover;
+    overflow: hidden;
+    position: relative;
+
+    display: flex;
+    align-items: center;
+
+    justify-content: center;
+}
+
 .swiper-slide video {
     width: 80%;
     height: 600px;    
